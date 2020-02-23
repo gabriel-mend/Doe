@@ -1,8 +1,7 @@
 <img align="center" src="./doePrint.png"/>
 <h1 align="center">Doe</h1>
 <br>
-<br>
-<h3 align="center">Projeto feito com Javascript, Html e Css, com intuito de ajudar iniciantes a entrar na carreira da programação</h3>
+<h3 align="center">Projeto feito com Javascript, Html e Css. Com intuito de ajudar iniciantes a entrar na carreira da programação</h3>
 <br> 
 <h2>Objetivo:</h2>
 <h4>Ajudar iniciantes a entender a carreira de programação</h4>
