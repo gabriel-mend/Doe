@@ -21,4 +21,4 @@
   <li>Depois disso tudo rodar npm start e seu projeto estará funcionando!</li>
 </ul>
 
-<h5 align="center">Desenvolido na MaratonaDev, evento realizado pela rocketseat</h5>
+<h5 align="center">Desenvolido na MaratonaDev, evento realizado pela <a href="https://github.com/Rocketseat">rocketseat</a></h5>
